@@ -1,0 +1,7 @@
+.myMuiButton {
+  background-color: #3f51b5 !important;
+  color: white !important;
+  &:hover {
+    background-color: #283593 !important;
+  }
+}
